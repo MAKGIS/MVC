@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BookStore
+build_property.ProjectDir = D:\Net_Core\__CodeMazeBlog\aspnetcore-mvc-series-master\Part1\GettingStarted\
