@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i1rg8pwBOiukinFeH4q6eicUrrzLavXniW9143Oq+6XI7ZhgZn3+hClEN3ZDbn/OsZUFe2zVX2eudWn8emw+PA==",
+  "dgSpecHash": "vhaqmflU757orPUqUwJAXtrHmp2V99c8Wq9jSvyQsTwXjzVDLetdoiWHSxmwyIlGkA3VNj1Zt7eMvpktmoeENQ==",
   "success": true,
-  "projectFilePath": "D:\\Net_Core\\__CodeMazeBlog\\aspnetcore-mvc-series-master\\Part1\\GettingStarted\\BookStore.csproj",
+  "projectFilePath": "D:\\Net_Core\\Azure_Test\\MVC\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net_Core\\__CodeMazeBlog\\aspnetcore-mvc-series-master\\Part1\\GettingStarted\\BookStore.csproj": {}
+    "D:\\Net_Core\\Azure_Test\\MVC\\BookStore.csproj": {}
   },
   "projects": {
-    "D:\\Net_Core\\__CodeMazeBlog\\aspnetcore-mvc-series-master\\Part1\\GettingStarted\\BookStore.csproj": {
+    "D:\\Net_Core\\Azure_Test\\MVC\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net_Core\\__CodeMazeBlog\\aspnetcore-mvc-series-master\\Part1\\GettingStarted\\BookStore.csproj",
+        "projectUniqueName": "D:\\Net_Core\\Azure_Test\\MVC\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "D:\\Net_Core\\__CodeMazeBlog\\aspnetcore-mvc-series-master\\Part1\\GettingStarted\\BookStore.csproj",
+        "projectPath": "D:\\Net_Core\\Azure_Test\\MVC\\BookStore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Net_Core\\__CodeMazeBlog\\aspnetcore-mvc-series-master\\Part1\\GettingStarted\\obj\\",
+        "outputPath": "D:\\Net_Core\\Azure_Test\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
